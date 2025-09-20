@@ -1,0 +1,1 @@
+pip install request python-telegram-bot
